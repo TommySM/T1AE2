@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Sanchez
-user2
-
-=======
 user1
->>>>>>> d6837eb4340ec9e712358fd3195527fe9439f4a6
+user2
